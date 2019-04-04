@@ -24,7 +24,7 @@ Chaplin is a Win32 application written in FORTRAN 90 using IMSL numerical routin
 
 ### Documentation
 
-*   [Chaplin-1.2.3.zip](src/1.2.3/Chaplin-1.2.3.zip)
+*   [chaplin.pdf](http://genetics.emory.edu/labs/epstein/software/chaplin/doc/chaplin.pdf)
 
 ### Associated publications
 
